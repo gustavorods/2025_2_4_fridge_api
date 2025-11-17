@@ -1,4 +1,4 @@
-# fridge Project
+# Fridge Project
 
 **Tagline**: Refrigerator design project.
 
