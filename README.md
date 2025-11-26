@@ -26,6 +26,13 @@ https://github.com/gustavorods/2025_2_4_fridge_api.git
 
 - You can find/change the credentials in the file `application.yml`.
 
+## Docker Image
+
+The image for this application is available on Docker Hub:
+</br>
+[![Docker Image](https://img.shields.io/badge/DockerHub-gustavorods%2Fprimeira--imagem--app-blue?logo=docker)](https://hub.docker.com/r/gustavorods/2025_fridge_api)
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
